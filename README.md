@@ -67,4 +67,4 @@ Working with UN/SDMX global datasets presents specific structural challenges tha
 │   └── top_10_countries_adolescent_girls_2023.png # Final Seaborn visualization
 └── README.md
 
-##check the "Release" to download the csv file
+##check the "Release"at the right side of this page to download the csv file
